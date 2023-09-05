@@ -1,0 +1,5 @@
+Utilities,Urocibg,https://urocibg.eu/
+Utilities,Urocibg,https://fedia.eu/
+
+Important,Github,https://github.com/cezar4o
+Important,Cloudflare,https://dash.cloudflare.com/login
